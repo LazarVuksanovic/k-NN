@@ -1,4 +1,4 @@
-# Iris Flower Classification with k-Nearest Neighbors (k-NN)
+# Iris Flower Classification with k-NN algorithm
 
 This project involves using the k-Nearest Neighbors (k-NN) algorithm to classify iris flowers based on their features. Three Python scripts (`3a.py`, `3b.py`, `3c.py`) are provided for different aspects of the classification task.
 
